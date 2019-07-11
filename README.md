@@ -12,4 +12,4 @@ Get in touch if you need any help understanding any of the code above.
 
 
 Isaac.
-https://www.linkedin.com/in/isaac-patole223/
+https://www.linkedin.com/in/isaac-patole/
