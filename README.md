@@ -5,8 +5,9 @@ The main aim of a autoencoder is to reduce the dimentinality of the data by extr
 
 Reference:
 
+Keras Blog: https://blog.keras.io/building-autoencoders-in-keras.html
 Variational Autoencoder by Prof. Ali Ghodsi: https://www.youtube.com/watch?v=uaaqyVS9-rM&t=2120s
-Keras Blog: https://blog.keras.io/building-autoencoders-in-keras.html 
+ 
 
 Get in touch if you need any help understanding any of the code above.
 
