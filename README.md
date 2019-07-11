@@ -7,7 +7,8 @@ The main aim of a autoencoder is to reduce the dimensionality of the data by ext
 In Denoising autoencoder we pass randon noise into the input data and still try to get the original output (check denoising_autoencoder.ipynb).
 
 
-Variational autoencoders are bit different and it is also called generative model, it learns the probablity distribution modeling the data. Its encoder first create a latent space from the input data which is z_mean and z_log_sigma then randomely sample similar points from latent normal distribution then the decoder maps these points to the original input data. KL divergence is used to achieve this.
+Variational autoencoders are bit different and it is also called generative model, it learns the probablity distribution modeling the data. Its encoder first create a latent space from the input data which is z_mean and z_log_sigma then randomely sample similar points from latent normal distribution then the decoder maps these points to the original input data. KL divergence is used to achieve this. (check variational_autoencoder.ipynb).
+
 
 Reference:
 
