@@ -2,7 +2,7 @@
 
 Autoencoders are mainly used for dimensionality reduction, big data transfer and data visualization. I worked on Convolutional Autoencoders, Denoising Autoencoders and Variational Autoencoders using Tensorflow 2.0.
 
-The main aim of a autoencoder is to reduce the dimensionality of the data by extracting important features from it in a bootleneck and then  getting back the original data (check autoencoder.ipynb).
+The main aim of a autoencoder is to reduce the dimensionality of the data by extracting important features from it in a bootleneck and then  getting back the original data (check convolutional_autoencoder.ipynb).
 
 In Denoising autoencoder we pass randon noise into the input data and still try to get the original output (check denoising_autoencoder.ipynb).
 
