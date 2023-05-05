@@ -15,10 +15,3 @@ Reference:
 Keras Blog: https://blog.keras.io/building-autoencoders-in-keras.html
 
 Variational Autoencoder by Prof. Ali Ghodsi: https://www.youtube.com/watch?v=uaaqyVS9-rM&t=2120s
- 
-
-Get in touch if you need any help understanding any of the code above.
-
-
-Isaac.
-https://www.linkedin.com/in/isaac-patole/
